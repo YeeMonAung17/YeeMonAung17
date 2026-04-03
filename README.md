@@ -15,11 +15,9 @@ I’m an aspiring software developer based in London, with a background in engin
 - **General**: Code Design Patterns, Systems Architecture
 
   ## 📊 GitHub Stats
+   *Stats coming soon...*
 
-<div align="center">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=YeeMonAung17&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YeeMonAung17&layout=compact)
-</div>
+
 
 ## 🚀 Featured Work & Focus
 
