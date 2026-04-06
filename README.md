@@ -1,9 +1,15 @@
-# Yee Mon Aung - Portfolio
+# 👋 Hi, I'm Yee
 ### Software Engineer | C# .NET | React Native
 
-I’m an aspiring software developer based in London, with a background in engineering and a strong interest in building mobile and web applications.
+I’m a software developer with a background in Mechatronics Engineering, currently specialising in C# and .NET. I enjoy building practical applications, from mobile apps to backend APIs, and solving real-world problems through clean, maintainable code.
 
-------------------------------------------------
+---
+## 🚀 Currently
+
+- Completing a C#/.NET Engineering Bootcamp at Northcoders  
+- Building full-stack applications using ASP.NET Core and Blazor  
+- Strengthening problem-solving skills through daily coding challenges
+---
 
 # 🛠️ Technical Skills
 
@@ -13,25 +19,25 @@ I’m an aspiring software developer based in London, with a background in engin
 - **Cloud**: AWS
 - **Frontend**: HTML, CSS, DOM, Blazor
 - **General**: Code Design Patterns, Systems Architecture
+---
+## 📊 GitHub Stats
 
-  ## 📊 GitHub Stats
-   *Stats coming soon...*
+![Yee's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeeMonAung17&show_icons=true&theme=default)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YeeMonAung17&layout=compact)
 
-
-## 🚀 Featured Work & Focus
+---
+## 🚀 Featured Project
 
 - **[Burmese Community App](https://github.com/YeeMonAung17/burmese-app)**  
   React Native mobile app for UK Burmese community
 
 - **[C# Portfolio](https://github.com/YeeMonAung17/csharp-portfolio)**  
   .NET practice projects and APIs
+---
 
-- **Daily Codewars Practice**  
-  Strengthening problem-solving skills
+ #🌐 Connect with Me
 
-#🌐 Connect with Me
-
--💼  [LinkedIn](https://www.linkedin.com/in/yeeaung/)
--📧  [Email](mailto:yeemonaung.isure@icloud.com)
--📍 Based in East London — always happy to connect for local opportunities or technical discussions.
+ -💼 [LinkedIn](https://www.linkedin.com/in/yeeaung/)
+ -📧 [Email](mailto:yeemonaung.isure@icloud.com)
+ -📍 Based in East London — always happy to connect for local opportunities or technical discussions.
