@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yee
 ### Software Developer | C# | .NET | ASP.NET Core
-**🎯 Actively seeking Junior C# / .NET roles in London **
+**🎯 Actively seeking Junior .NET roles in London **
 
 Building full-stack applications with ASP.NET Core, Blazor, and SQL Server.  
 Interested in clean architecture, test-driven development, and modern software practices.
@@ -37,19 +37,9 @@ Interested in clean architecture, test-driven development, and modern software p
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YeeMonAung17&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeeMonAung17&layout=compact" width="48%" />
-</p>
-
----
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeeaung/)
 [![Email](https://img.shields.io/badge/Email-7389D8?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:yeemonaung.isure@icloud.com)
 ![Location](https://img.shields.io/badge/Based%20In-London%2C%20UK-red?style=for-the-badge)
 
-Actively seeking Junior C#/.NET Software Developer roles.
